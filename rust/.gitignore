@@ -1,0 +1,6 @@
+# rust specific gitignore 
+**/debug/
+**/target/
+**/Cargo.lock
+**/*.rs.bk
+
